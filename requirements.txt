@@ -2,6 +2,6 @@ numpy
 matplotlib
 scipy
 sympy
-opencv-python
+opencv-contrib-python-headless
 tomlkit
 toml
